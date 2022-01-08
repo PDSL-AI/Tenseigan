@@ -1,0 +1,19 @@
+[lightning]
+level = "info"
+file = "./log/tidb-lightning.log"
+
+[tikv-importer]
+backend = "local"
+sorted-kv-dir = "/data1/sorted-kv-dir"
+
+[mydumper]
+data-source-dir = "/data1/tidb-1/"
+filter = ['*.*', '!pingcap*.*', '!test*.*', '!mysql*.*', '!INFORMATION_SCHEMA*.*', '!PERFORMANCE_SCHEMA*.*', '!METRICS_SCHEMA*.*', '!INSPECTION_SCHEMA*.*']
+
+[tidb]
+host = "192.168.0.2"
+port = 4000
+user = "root"
+password = ""
+status-port = 10080
+pd-addr = "192.168.0.2:2379"

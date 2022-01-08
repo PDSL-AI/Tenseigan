@@ -1,0 +1,290 @@
+[
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tidb_qps,192.168.0.19:10080)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tidb_qps,192.168.0.19:10080)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tidb_query_duration,192.168.0.19:10080)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tidb_query_duration,192.168.0.19:10080)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_thread_cpu,192.168.0.18:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_thread_cpu,192.168.0.15:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_thread_cpu,192.168.0.16:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_thread_cpu,192.168.0.17:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_memory,192.168.0.18:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_memory,192.168.0.15:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_memory,192.168.0.16:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_memory,192.168.0.17:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(node_disk_io_util,192.168.0.18:9100)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(node_disk_io_util,192.168.0.15:9100)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(node_disk_io_util,192.168.0.16:9100)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(node_disk_io_util,192.168.0.17:9100)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_total_count,192.168.0.18:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_total_count,192.168.0.15:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_total_count,192.168.0.16:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_total_count,192.168.0.17:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_duration,192.168.0.18:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_duration,192.168.0.15:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_duration,192.168.0.16:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    },
+    {
+        "model": "website.MetricCatalog",
+        "fields": {
+            "name": "global.(tikv_grpc_message_duration,192.168.0.17:20180)",
+            "vartype": 3,
+            "metric_type": 3,
+            "scope": "global",
+            "summary": "",
+            "dbms": 10,
+            "default": null
+        }
+    }
+]

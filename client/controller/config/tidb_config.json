@@ -1,0 +1,9 @@
+{
+  "database_type": "tidb",
+  "database_url": "jdbc:mysql://tidb-pd-3:4000/tpcc?useSSL=false",
+  "username": "root",
+  "password": "",
+  "upload_code": "DEPRECATED",
+  "upload_url": "DEPRECATED",
+  "workload_name": "tpcc"
+}
